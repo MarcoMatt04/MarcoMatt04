@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcomatt04&label=Profile%20views&color=0e75b6&style=flat" alt="marcomatt04" /> </p>
 
-- 🌱 I’m currently learning **NextJs, React**
+- 🌱 I’m currently learning **NextJs, Vue**
 
 - 👯 I’m looking to collaborate on **different projects**
 
