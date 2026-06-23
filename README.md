@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
-<h3 align="center">A passionate frontend developer from Italy</h3>
+<h3 align="center">A passionate fullstack developer from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcomatt04&label=Profile%20views&color=0e75b6&style=flat" alt="marcomatt04" /> </p>
 
-- 🌱 I’m currently learning **Laravel, Vue**
+- 🌱 I’m currently learning **Laravel**
 
 - 👯 I’m looking to collaborate on **different projects**
 
