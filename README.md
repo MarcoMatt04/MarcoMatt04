@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcomatt04&label=Profile%20views&color=0e75b6&style=flat" alt="marcomatt04" /> </p>
 
-- 🌱 I’m currently learning **Laravel**
+-  I’m currently learning **Laravel**
 
-- 👯 I’m looking to collaborate on **different projects**
+-  I’m looking to collaborate on **different projects**
 
-- 📫 How to reach me **marcomatt988@gmail.com**
+-  How to reach me **marcomatt988@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
